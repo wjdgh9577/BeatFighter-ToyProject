@@ -1,0 +1,391 @@
+﻿{
+	"md5": "e4c73c5622f839f2233f55d1f96a6067",
+	"array": 
+		[
+			{
+				"typeID": "Description_Boss",
+				"Korean": "보스 : ",
+				"English": "Boss : "
+			},
+			{
+				"typeID": "Boss_50000",
+				"Korean": "없음",
+				"English": "None"
+			},
+			{
+				"typeID": "Boss_50001",
+				"Korean": "없음",
+				"English": "None"
+			},
+			{
+				"typeID": "Boss_50002",
+				"Korean": "킹슬라임",
+				"English": "Slime King"
+			},
+			{
+				"typeID": "Boss_Unknown",
+				"Korean": "미확인",
+				"English": "Unknown"
+			},
+			{
+				"typeID": "Description_50000",
+				"Korean": "피는 모든 힘의 근원이다.\n그리고 심장이 뛰는 짧은 순간 인간은 초월적인 능력을 발휘한다.\n사람들은 이를 '임페리움'이라고 불렀다.\n'임페리움'을 연구하는 집단 'XXX'이 생겨났고, 'XXX'에 의해 인류는 생태계의 최상위포식자로 거듭났다.\n하지만 'XXX'는 인류를 생태계의 정점에 세우기 위해 더 많은 데이터가 필요했다.\n그들은 인류를 또 한번 진화시키기 위해 비밀리에 생체병기를 만들고 생태계에 방생하여 인간을 공격하게 했다.\n그로부터 10년이 지났다...\n.\n.\n.\n숲속은 적막만이 감돌았다.\n이제 이 숲에 남아있는 생명체는 얼마 없었다.\n얼마나 걸었을까.\n적막을 깨고 어디선가 귀여운 통통거리는 소리가 들렸다.\n소리는 점점 가까워지고 드디어 그 형체가 드러났다.\n\n\"마침 따분하던 참이였어!\"",
+				"English": "테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트\n테스트"
+			},
+			{
+				"typeID": "Description_50001",
+				"Korean": "하지만 걱정하지 마라.\n손은 눈보다 빠르니까.",
+				"English": "하지만 걱정하지 마라.\n손은 눈보다 빠르니까."
+			},
+			{
+				"typeID": "Description_50002",
+				"Korean": "예림이 그 손패 봐봐",
+				"English": "예림이 그 손패 봐봐"
+			},
+			{
+				"typeID": "Description_Unknown",
+				"Korean": "\"너무 성급한거 아니야?\"",
+				"English": "\"Isn't that too hasty?\""
+			},
+			{
+				"typeID": "Description_Note",
+				"Korean": "특이사항 : ",
+				"English": "Note : "
+			},
+			{
+				"typeID": "Note_50000",
+				"Korean": "없음",
+				"English": "None"
+			},
+			{
+				"typeID": "Note_50001",
+				"Korean": "없음",
+				"English": "None"
+			},
+			{
+				"typeID": "Note_50002",
+				"Korean": "없음",
+				"English": "None"
+			},
+			{
+				"typeID": "Note_Unknown",
+				"Korean": "미확인",
+				"English": "Unknown"
+			},
+			{
+				"typeID": "Map_50000",
+				"Korean": "튜토리얼",
+				"English": "Tutorial"
+			},
+			{
+				"typeID": "Map_50001",
+				"Korean": "테스트 맵 2",
+				"English": "Test map 2"
+			},
+			{
+				"typeID": "Map_50002",
+				"Korean": "테스트 맵 3",
+				"English": "Test map 3"
+			},
+			{
+				"typeID": "Message_ExitGame",
+				"Korean": "게임을 종료하시겠습니까?",
+				"English": "Exit Game?"
+			},
+			{
+				"typeID": "Message_GetNewCharacter",
+				"Korean": "새로운 캐릭터 획득!\n\n{0}",
+				"English": "New character!\n\n{0}"
+			},
+			{
+				"typeID": "Message_LanguageChange",
+				"Korean": "변경한 언어가 정상적으로 적용되지 않을 수 있습니다.\n게임을 재시작 해주세요.",
+				"English": "The changed language may not be applied normally.\nPlease restart the game."
+			},
+			{
+				"typeID": "Message_NewAccount",
+				"Korean": "기존의 데이터가 삭제됩니다.\n계속 진행하겠습니까?",
+				"English": "The existing data will be deleted.\nDo you want to continue?"
+			},
+			{
+				"typeID": "Message_NotFoundAccount",
+				"Korean": "불러올 데이터가 없습니다.",
+				"English": "No Data."
+			},
+			{
+				"typeID": "Message_Return",
+				"Korean": "전투에서 귀환하시겠습니까?",
+				"English": "Would you like to return from the battle?"
+			},
+			{
+				"typeID": "Message_RewardExpGold",
+				"Korean": "경험치와 골드 획득!\n\n경험치 : {0}\n골드 : {1}",
+				"English": "Get exp and gold!\n\nexp : {0}\ngold : {1}"
+			},
+			{
+				"typeID": "Button_Back",
+				"Korean": "뒤로가기",
+				"English": "Back"
+			},
+			{
+				"typeID": "Button_Collection",
+				"Korean": "콜렉션",
+				"English": "Collection"
+			},
+			{
+				"typeID": "Button_Exit",
+				"Korean": "나가기",
+				"English": "Exit"
+			},
+			{
+				"typeID": "Button_Item",
+				"Korean": "아이템",
+				"English": "Item"
+			},
+			{
+				"typeID": "Button_Journey",
+				"Korean": "모험",
+				"English": "Journey"
+			},
+			{
+				"typeID": "Button_Load",
+				"Korean": "불러오기",
+				"English": "Load"
+			},
+			{
+				"typeID": "Button_Logout",
+				"Korean": "로그아웃",
+				"English": "Logout"
+			},
+			{
+				"typeID": "Button_NewGame",
+				"Korean": "새 게임",
+				"English": "New Game"
+			},
+			{
+				"typeID": "Button_No",
+				"Korean": "아니오",
+				"English": "No"
+			},
+			{
+				"typeID": "Button_OK",
+				"Korean": "확인",
+				"English": "OK"
+			},
+			{
+				"typeID": "Button_Option",
+				"Korean": "설정",
+				"English": "Option"
+			},
+			{
+				"typeID": "Button_Play",
+				"Korean": "입장",
+				"English": "Play"
+			},
+			{
+				"typeID": "Button_Retry",
+				"Korean": "재도전",
+				"English": "Retry"
+			},
+			{
+				"typeID": "Button_Skill",
+				"Korean": "스킬",
+				"English": "Skill"
+			},
+			{
+				"typeID": "Button_Tutorial",
+				"Korean": "튜토리얼",
+				"English": "Tutorial"
+			},
+			{
+				"typeID": "Button_Yes",
+				"Korean": "예",
+				"English": "Yes"
+			},
+			{
+				"typeID": "Skill_40000",
+				"Korean": "워리어 테스트0",
+				"English": "Warrior test0"
+			},
+			{
+				"typeID": "Skill_40001",
+				"Korean": "워리어 테스트1",
+				"English": "Warrior test1"
+			},
+			{
+				"typeID": "Skill_40002",
+				"Korean": "워리어 테스트2",
+				"English": "Warrior test2"
+			},
+			{
+				"typeID": "Skill_40003",
+				"Korean": "워리어 테스트3",
+				"English": "Warrior test3"
+			},
+			{
+				"typeID": "Skill_40004",
+				"Korean": "워리어 테스트4",
+				"English": "Warrior test4"
+			},
+			{
+				"typeID": "Skill_40100",
+				"Korean": "소서리스 테스트1",
+				"English": "Sorceress test1"
+			},
+			{
+				"typeID": "Skill_40101",
+				"Korean": "소서리스 테스트2",
+				"English": "Sorceress test2"
+			},
+			{
+				"typeID": "Skill_40200",
+				"Korean": "닌자 테스트1",
+				"English": "Ninja test1"
+			},
+			{
+				"typeID": "Skill_Lock",
+				"Korean": "필요 레벨 {0}",
+				"English": "Required level {0}"
+			},
+			{
+				"typeID": "Message_SkillLevelUp",
+				"Korean": "스킬 레벨 업!\n\n{0}\n{1} -> {2}",
+				"English": "Skill Level Up!\n\n{0}\n{1} -> {2}"
+			},
+			{
+				"typeID": "Description_40000",
+				"Korean": "단일 대상에게 강력한 미들킥을 가하여 {0}%의 피해를 준다.",
+				"English": "단일 대상에게 강력한 미들킥을 가하여 {0}%의 피해를 준다."
+			},
+			{
+				"typeID": "Description_40001",
+				"Korean": "대검을 한 번 휘둘러 단일 대상에게 {0}%의 피해를 입힌다.",
+				"English": "대검을 한 번 휘둘러 단일 대상에게 {0}%의 피해를 입힌다."
+			},
+			{
+				"typeID": "Description_40002",
+				"Korean": "대검을 앞으로 길게 뻗어 휘두르며 단일 대상에게 {0}%의 피해를 입힌다.",
+				"English": "대검을 앞으로 길게 뻗어 휘두르며 단일 대상에게 {0}%의 피해를 입힌다."
+			},
+			{
+				"typeID": "Description_40003",
+				"Korean": "대검을 아래에서 위로 휘둘러 단일 대상에게 {0}%+{1}의 피해를 입힌다.",
+				"English": "대검을 아래에서 위로 휘둘러 단일 대상에게 {0}%+{1}의 피해를 입힌다."
+			},
+			{
+				"typeID": "Description_40004",
+				"Korean": "대검을 세 번 휘둘러 단일 대상에게 {0}%x3의 피해를 입힌다.\n세번째 공격은 모든 적에게 피해를 입힌다.",
+				"English": "대검을 세 번 휘둘러 단일 대상에게 {0}%x3의 피해를 입힌다.\n세번째 공격은 모든 적에게 피해를 입힌다."
+			},
+			{
+				"typeID": "Description_40100",
+				"Korean": "단일 대상에게 폭발을 일으켜 피해를 입힌다.",
+				"English": "단일 대상에게 폭발을 일으켜 피해를 입힌다."
+			},
+			{
+				"typeID": "Description_40101",
+				"Korean": "폭발하는 구체를 소환하여 모든 적에게 수차례의 피해를 입힌다.",
+				"English": "폭발하는 구체를 소환하여 모든 적에게 수차례의 피해를 입힌다."
+			},
+			{
+				"typeID": "Character_20000",
+				"Korean": "워리어",
+				"English": "Warrior"
+			},
+			{
+				"typeID": "Character_20001",
+				"Korean": "소서리스",
+				"English": "Sorceress"
+			},
+			{
+				"typeID": "Message_CharacterLevelUp",
+				"Korean": "캐릭터 레벨 업!\n\n{0} -> {1}",
+				"English": "Character Level Up!\n\n{0} -> {1}"
+			},
+			{
+				"typeID": "Collection_Stats",
+				"Korean": "{0}\n레벨 : {1}\n경험치 : {2}\n생명력 : {3}\n공격력 : {4}\n방어력 : {5}\n박동 주기 : {6}\n박동 속도 : {7}",
+				"English": "{0}\nLevel : {1}\nExp : {2}\nHP : {3}\nAtk : {4}\nDef : {5}\nSign period : {6}\nSign speed : {7}"
+			},
+			{
+				"typeID": "Title_Description",
+				"Korean": "설명",
+				"English": "Description"
+			},
+			{
+				"typeID": "Title_Effect",
+				"Korean": "이펙트",
+				"English": "Effect"
+			},
+			{
+				"typeID": "Title_Language",
+				"Korean": "언어",
+				"English": "Language"
+			},
+			{
+				"typeID": "Title_List",
+				"Korean": "리스트",
+				"English": "List"
+			},
+			{
+				"typeID": "Title_Music",
+				"Korean": "음악",
+				"English": "Music"
+			},
+			{
+				"typeID": "Title_Slots",
+				"Korean": "슬롯",
+				"English": "Slots"
+			},
+			{
+				"typeID": "Title_Sound",
+				"Korean": "사운드",
+				"English": "Sound"
+			},
+			{
+				"typeID": "Description_Touch",
+				"Korean": "배경을 터치하여 뒤로가기",
+				"English": "Touch to back"
+			},
+			{
+				"typeID": "Message_Tutorial_Collection",
+				"Korean": "현재 선택된 캐릭터의 정보를 확인하고 스킬, 아이템을 장착/변경 할 수 있습니다.\n화살표를 눌러서 캐릭터를 변경할 수 있습니다.",
+				"English": "You can check the information of the currently selected character and equip/change the skill and item.\nYou can change the character by pressing the arrow."
+			},
+			{
+				"typeID": "Message_Tutorial_ItemMode",
+				"Korean": "캐릭터에게 장비를 장착하여 능력치를 끌어올릴 수 있습니다.",
+				"English": "The character can be fitted with equipment to increase its ability."
+			},
+			{
+				"typeID": "Message_Tutorial_JourneyMode",
+				"Korean": "모험을 떠날 수 있습니다.\n모험은 순차적으로 진행됩니다.",
+				"English": "You can go on an journey.\njourneys are carried out sequentially."
+			},
+			{
+				"typeID": "Message_Tutorial_Menu",
+				"Korean": "게임의 메인화면입니다.\n콜렉션에서 정비를 한 후 모험을 떠나보세요.",
+				"English": "This is the main screen of the game.\nGo on an journey after maintenance in the collection."
+			},
+			{
+				"typeID": "Message_Tutorial_SkillMode",
+				"Korean": "스킬의 레벨, 경험치, 설명을 확인하고 장착할 수 있습니다.",
+				"English": "You can check and equip the skill level, exp and description."
+			},
+			{
+				"typeID": "Develop",
+				"Korean": "개발중",
+				"English": "under development"
+			},
+			{
+				"typeID": "Description_SkillExp",
+				"Korean": "스킬 경험치 : {0} / {1}",
+				"English": "Skill Exp : {0} / {1}"
+			},
+			{
+				"typeID": "Description_SkillCooldown",
+				"Korean": "쿨다운 : {0}초",
+				"English": "Cooldown : {0}s"
+			}
+		]
+}

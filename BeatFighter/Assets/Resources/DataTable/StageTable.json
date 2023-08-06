@@ -1,0 +1,69 @@
+﻿{
+	"md5": "3eb650eab48fd40394e3c682fcba4f58",
+	"array": 
+		[
+			{
+				"typeID": 60000,
+				"mob3": 30000,
+				"mob3Level": 1
+			},
+			{
+				"typeID": 60001,
+				"mob1": 30000,
+				"mob1Level": 1,
+				"mob2": 30000,
+				"mob2Level": 1,
+				"mob3": 30000,
+				"mob3Level": 1
+			},
+			{
+				"typeID": 60010,
+				"mob1": 30000,
+				"mob1Level": 2,
+				"mob2": 30000,
+				"mob2Level": 2,
+				"mob3": 30000,
+				"mob3Level": 2
+			},
+			{
+				"typeID": 60011,
+				"mob1": 30000,
+				"mob1Level": 2,
+				"mob2": 30000,
+				"mob2Level": 2,
+				"mob3": 30000,
+				"mob3Level": 2,
+				"mob4": 30000,
+				"mob4Level": 2,
+				"mob5": 30000,
+				"mob5Level": 2
+			},
+			{
+				"typeID": 60020,
+				"mob1": 30000,
+				"mob1Level": 3,
+				"mob2": 30000,
+				"mob2Level": 3,
+				"mob3": 30000,
+				"mob3Level": 3
+			},
+			{
+				"typeID": 60021,
+				"mob1": 30000,
+				"mob1Level": 3,
+				"mob2": 30000,
+				"mob2Level": 3,
+				"mob3": 30000,
+				"mob3Level": 3,
+				"mob4": 30000,
+				"mob4Level": 3,
+				"mob5": 30000,
+				"mob5Level": 3
+			},
+			{
+				"typeID": 60022,
+				"mob3": 39000,
+				"mob3Level": 1
+			}
+		]
+}
